@@ -1,0 +1,28 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: white;
+  background: red;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+hr {
+  margin: 20px 0;
+}
+
+li {
+  padding: 0 30px;
+}
+
+button {
+  margin-bottom: 20px;
+}
+
+input {
+  margin: 0 0 0 30px;
+}
